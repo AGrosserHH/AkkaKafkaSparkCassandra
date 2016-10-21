@@ -1,7 +1,7 @@
 # AkkaKafkaSparkCassandra
 Basic example for Akka, Kafka, Spark and Cassandra
 
-This example shows how to integrate Akka, Kafka (via Akka Stream), Spark and Cassandra. In general, the example<br />
+This example shows how to integrate Akka, Kafka (via Akka Stream), Spark and Cassandra in combination with Mllib. In general, the example<br />
 1. Fits a linear regression mode with Mllib<br />
 2. Saves model<br />
 3. Sets up Akka Kafka stream<br />
